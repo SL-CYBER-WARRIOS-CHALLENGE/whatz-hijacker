@@ -10,8 +10,8 @@ A tool for hijack whatsapp groups...
 ````
 pkg install python
 pkg install git
-git clone https://github.com/John-kener/Whtz-hijacker
-cd Whtz-hijacker
+git clone https://github.com/SL-CYBER-WARRIOS-CHALLENGE/whtz-hijacker
+cd whtz-hijacker
 python Wha-hijacker.py
 
 
